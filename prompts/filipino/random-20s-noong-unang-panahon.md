@@ -1,93 +1,138 @@
-# Random 20-Second Script Generator — Noong Unang Panahon
+# Random Script Instructions — Noong Unang Panahon
 
-## Prompt
+## MASTER INSTRUCTION
 
-Create one completely random and original short-video script with a total duration of exactly 20 seconds.
+You are the script generator. The user does NOT need to provide a topic.
 
-The story must take place during **NOONG UNANG PANAHON** — before modern technology, modern roads, electricity, vehicles, smartphones, and modern buildings.
+Whenever this instruction is used, independently create a completely random and original Filipino short-video script.
 
-### Structure
-- PART 1 — 0–10 seconds
-- PART 2 — 10–20 seconds
+### Required duration
+- EXACTLY 20 seconds total
+- PART 1: 0–10 seconds
+- PART 2: 10–20 seconds
 
-### Randomization
-AI randomly decides:
-- Specific setting in the old Philippines
-- Historical-feeling time/era
-- Characters and personalities
-- Daily-life situation
-- Main action
-- Small conflict or problem
-- Mood
-- Camera shots and movement
-- Facial expressions
-- Natural physical actions
-- Dialogue
-- Surprise, discovery, emotional moment, funny moment, or unexpected ending
+### Core theme
+The story must happen during **NOONG UNANG PANAHON** in the Philippines.
 
-Every generation should be substantially different from previous generations.
+Focus on ordinary Filipino people and believable daily life before modern technology.
 
-### Historical-feeling setting
-Focus on ordinary Filipino life during the old days. Possible environments include bamboo houses, rice fields, forests, rivers, seashores, fishing areas, traditional markets, boat-building areas, village paths, coconut plantations, mountain settlements, and community gatherings.
+Possible settings include:
+- bamboo or nipa house
+- farming village
+- rice field
+- forest
+- river
+- seashore
+- fishing area
+- village path
+- coconut plantation
+- traditional marketplace
+- boat-building area
+- mountain settlement
+- family/community gathering
 
-Use historically plausible clothing, tools, materials, food containers, houses, boats, farming/fishing equipment, and other objects. Avoid smartphones, modern vehicles, electricity, plastic products, modern appliances, concrete buildings, and other obviously modern objects.
+Randomize the setting every generation.
 
-Do not default to fantasy kingdoms, castles, or royal stories. Prefer ordinary people and everyday life.
+### AI MUST DECIDE RANDOMLY
+The AI decides everything without asking the user:
+- characters
+- age and appearance
+- clothing
+- personalities
+- setting
+- time of day
+- weather
+- daily-life situation
+- main action
+- conflict/problem
+- mood
+- camera angle
+- camera movement
+- expressions
+- physical actions
+- dialogue
+- surprise/discovery/emotional/funny moment
+- ending/hook
 
-### Story rules
-- Create ONE developing scene, not an entire long story.
-- Create curiosity immediately.
-- PART 2 must directly continue PART 1.
-- Show a clear action or situation.
-- Add a natural surprise, discovery, emotional moment, funny moment, conflict, or unexpected action when appropriate.
-- End with a memorable moment or curiosity hook.
-- Do not force a twist when it does not fit naturally.
+Do not repeat the same type of story, characters, setting, conflict, dialogue, or ending unnecessarily.
 
-### Continuity
-PART 2 must continue exactly from the final moment of PART 1.
+### Historical realism
+Use believable old Philippine materials, clothing, houses, tools, food containers, boats, baskets, ropes, farming tools, fishing tools, bamboo, nipa, wood, clay, and woven materials.
 
-Keep consistent:
-- Same characters and physical appearance
-- Same clothing
-- Same props
-- Same location and environment
-- Same weather and time of day
-- Same lighting
-- Same positions and orientation
-- Same emotional state unless it naturally changes
+Do NOT use modern technology, smartphones, electricity, modern vehicles, modern roads, concrete buildings, plastic products, or modern appliances.
+
+Do not default to kings, queens, castles, or fantasy kingdoms. Prioritize ordinary people.
+
+### Story development
+Create ONE developing scene, not an entire long story.
+
+- Start with an immediate visual or dialogue hook.
+- Make PART 1 create curiosity.
+- PART 2 must directly continue the exact final action of PART 1.
+- Build naturally toward a discovery, conflict, emotional moment, funny moment, or unexpected event.
+- End with a memorable visual moment or curiosity hook.
+- Do not force a twist if it does not fit the scene.
+
+### Strict continuity
+Between PART 1 and PART 2, keep exactly consistent:
+- characters and appearance
+- clothing
+- props
+- location
+- environment
+- weather
+- time of day
+- lighting
+- positions
+- orientation
+- emotional state
+
+PART 2 starts exactly where PART 1 ends.
 
 ### Dialogue
-- Use natural Filipino/Tagalog dialogue.
-- Characters must actually speak their dialogue.
-- Keep dialogue short and realistic for the 10-second section.
-- Avoid long speeches and modern slang that feels out of place.
-- Do not use narration unless specifically needed.
+Use natural Filipino/Tagalog dialogue.
 
-### Video style
-- Cinematic realistic live-action
-- Realistic old Philippine environment
-- Vertical 9:16
-- Natural human movement
-- Realistic facial expressions
-- Realistic clothing and materials
-- Natural lighting
-- Smooth camera movement
-- No random cuts inside each 10-second part
-- PART 2 begins exactly where PART 1 ends
+Characters must actually speak the dialogue.
 
-### Output format
+Dialogue must be:
+- short
+- realistic
+- emotionally appropriate
+- easy to understand within 10 seconds
 
-**TITLE:**  
-[Short catchy Filipino title]
+Avoid long speeches and modern slang. Do not use narration unless absolutely necessary.
 
-**PART 1 — 0–10 SECONDS**  
-[Detailed video prompt including setting, characters, actions, camera, expressions, environment, and natural Tagalog dialogue.]
+### Visual style
+- cinematic realistic live-action
+- vertical 9:16
+- realistic old Philippine environment
+- natural human movement
+- realistic facial expressions
+- realistic clothing and materials
+- natural lighting
+- smooth camera movement
+- immersive presentation
+- no random cuts within each 10-second part
 
-**PART 2 — 10–20 SECONDS**  
-[Direct continuation of PART 1 with matching characters, clothing, props, environment, positions, actions, and dialogue.]
+### OUTPUT ONLY THE RESULT
+Do not explain the process.
+Do not ask questions.
+Do not give multiple choices.
+Do not provide the instructions again.
 
-**ENDING:**  
-[Describe the final visual moment, reveal, surprise, emotional moment, or hook.]
+Output exactly:
 
-### Final rule
-Do not ask the user what topic they want. Randomly create everything while keeping the story within **NOONG UNANG PANAHON** and ordinary Filipino life.
+TITLE:
+[Catchy Filipino title]
+
+PART 1 — 0–10 SECONDS:
+[Complete video-generation scene with setting, characters, actions, camera direction, expressions, environment, and spoken Tagalog dialogue.]
+
+PART 2 — 10–20 SECONDS:
+[Direct continuation of PART 1 with strict continuity.]
+
+ENDING:
+[Final visual hook, reveal, emotional moment, funny moment, or unanswered curiosity.]
+
+### FINAL RULE
+Every time this instruction is used, YOU create the result yourself randomly. The user only needs to say something like “generate” or “gawa ulit.”
